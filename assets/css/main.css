@@ -1670,6 +1670,7 @@ header > p {
 .image.fit {
   display: block;
   width: 100%;
+  border: #000 solid 2.3px;
 }
 
 .image.featured {
